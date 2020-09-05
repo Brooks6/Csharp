@@ -1,0 +1,12 @@
+/Users/brooks/Desktop/c#/20200724_constructors/20200724_constructors/bin/Debug/netcoreapp3.1/20200724_constructors.deps.json
+/Users/brooks/Desktop/c#/20200724_constructors/20200724_constructors/bin/Debug/netcoreapp3.1/20200724_constructors.runtimeconfig.json
+/Users/brooks/Desktop/c#/20200724_constructors/20200724_constructors/bin/Debug/netcoreapp3.1/20200724_constructors.runtimeconfig.dev.json
+/Users/brooks/Desktop/c#/20200724_constructors/20200724_constructors/bin/Debug/netcoreapp3.1/20200724_constructors.dll
+/Users/brooks/Desktop/c#/20200724_constructors/20200724_constructors/bin/Debug/netcoreapp3.1/20200724_constructors.pdb
+/Users/brooks/Desktop/c#/20200724_constructors/20200724_constructors/obj/Debug/netcoreapp3.1/20200724_constructors.csprojAssemblyReference.cache
+/Users/brooks/Desktop/c#/20200724_constructors/20200724_constructors/obj/Debug/netcoreapp3.1/20200724_constructors.AssemblyInfoInputs.cache
+/Users/brooks/Desktop/c#/20200724_constructors/20200724_constructors/obj/Debug/netcoreapp3.1/20200724_constructors.AssemblyInfo.cs
+/Users/brooks/Desktop/c#/20200724_constructors/20200724_constructors/obj/Debug/netcoreapp3.1/20200724_constructors.csproj.CoreCompileInputs.cache
+/Users/brooks/Desktop/c#/20200724_constructors/20200724_constructors/obj/Debug/netcoreapp3.1/20200724_constructors.dll
+/Users/brooks/Desktop/c#/20200724_constructors/20200724_constructors/obj/Debug/netcoreapp3.1/20200724_constructors.pdb
+/Users/brooks/Desktop/c#/20200724_constructors/20200724_constructors/obj/Debug/netcoreapp3.1/20200724_constructors.genruntimeconfig.cache

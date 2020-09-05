@@ -1,0 +1,12 @@
+/Users/brooks/Desktop/c#/20200724_exceptionHandling/20200724_exceptionHandling/obj/Debug/netcoreapp3.1/20200724_exceptionHandling.csprojAssemblyReference.cache
+/Users/brooks/Desktop/c#/20200724_exceptionHandling/20200724_exceptionHandling/obj/Debug/netcoreapp3.1/20200724_exceptionHandling.AssemblyInfoInputs.cache
+/Users/brooks/Desktop/c#/20200724_exceptionHandling/20200724_exceptionHandling/obj/Debug/netcoreapp3.1/20200724_exceptionHandling.AssemblyInfo.cs
+/Users/brooks/Desktop/c#/20200724_exceptionHandling/20200724_exceptionHandling/obj/Debug/netcoreapp3.1/20200724_exceptionHandling.csproj.CoreCompileInputs.cache
+/Users/brooks/Desktop/c#/20200724_exceptionHandling/20200724_exceptionHandling/bin/Debug/netcoreapp3.1/20200724_exceptionHandling.deps.json
+/Users/brooks/Desktop/c#/20200724_exceptionHandling/20200724_exceptionHandling/bin/Debug/netcoreapp3.1/20200724_exceptionHandling.runtimeconfig.json
+/Users/brooks/Desktop/c#/20200724_exceptionHandling/20200724_exceptionHandling/bin/Debug/netcoreapp3.1/20200724_exceptionHandling.runtimeconfig.dev.json
+/Users/brooks/Desktop/c#/20200724_exceptionHandling/20200724_exceptionHandling/bin/Debug/netcoreapp3.1/20200724_exceptionHandling.dll
+/Users/brooks/Desktop/c#/20200724_exceptionHandling/20200724_exceptionHandling/bin/Debug/netcoreapp3.1/20200724_exceptionHandling.pdb
+/Users/brooks/Desktop/c#/20200724_exceptionHandling/20200724_exceptionHandling/obj/Debug/netcoreapp3.1/20200724_exceptionHandling.dll
+/Users/brooks/Desktop/c#/20200724_exceptionHandling/20200724_exceptionHandling/obj/Debug/netcoreapp3.1/20200724_exceptionHandling.pdb
+/Users/brooks/Desktop/c#/20200724_exceptionHandling/20200724_exceptionHandling/obj/Debug/netcoreapp3.1/20200724_exceptionHandling.genruntimeconfig.cache
