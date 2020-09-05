@@ -1,0 +1,12 @@
+/Users/brooks/Desktop/c#/20200724_BuildingAMadLibGame/20200724_BuildingAMadLibGame/bin/Debug/netcoreapp3.1/20200724_BuildingAMadLibGame.deps.json
+/Users/brooks/Desktop/c#/20200724_BuildingAMadLibGame/20200724_BuildingAMadLibGame/bin/Debug/netcoreapp3.1/20200724_BuildingAMadLibGame.runtimeconfig.json
+/Users/brooks/Desktop/c#/20200724_BuildingAMadLibGame/20200724_BuildingAMadLibGame/bin/Debug/netcoreapp3.1/20200724_BuildingAMadLibGame.runtimeconfig.dev.json
+/Users/brooks/Desktop/c#/20200724_BuildingAMadLibGame/20200724_BuildingAMadLibGame/bin/Debug/netcoreapp3.1/20200724_BuildingAMadLibGame.dll
+/Users/brooks/Desktop/c#/20200724_BuildingAMadLibGame/20200724_BuildingAMadLibGame/bin/Debug/netcoreapp3.1/20200724_BuildingAMadLibGame.pdb
+/Users/brooks/Desktop/c#/20200724_BuildingAMadLibGame/20200724_BuildingAMadLibGame/obj/Debug/netcoreapp3.1/20200724_BuildingAMadLibGame.csprojAssemblyReference.cache
+/Users/brooks/Desktop/c#/20200724_BuildingAMadLibGame/20200724_BuildingAMadLibGame/obj/Debug/netcoreapp3.1/20200724_BuildingAMadLibGame.AssemblyInfoInputs.cache
+/Users/brooks/Desktop/c#/20200724_BuildingAMadLibGame/20200724_BuildingAMadLibGame/obj/Debug/netcoreapp3.1/20200724_BuildingAMadLibGame.AssemblyInfo.cs
+/Users/brooks/Desktop/c#/20200724_BuildingAMadLibGame/20200724_BuildingAMadLibGame/obj/Debug/netcoreapp3.1/20200724_BuildingAMadLibGame.csproj.CoreCompileInputs.cache
+/Users/brooks/Desktop/c#/20200724_BuildingAMadLibGame/20200724_BuildingAMadLibGame/obj/Debug/netcoreapp3.1/20200724_BuildingAMadLibGame.dll
+/Users/brooks/Desktop/c#/20200724_BuildingAMadLibGame/20200724_BuildingAMadLibGame/obj/Debug/netcoreapp3.1/20200724_BuildingAMadLibGame.pdb
+/Users/brooks/Desktop/c#/20200724_BuildingAMadLibGame/20200724_BuildingAMadLibGame/obj/Debug/netcoreapp3.1/20200724_BuildingAMadLibGame.genruntimeconfig.cache

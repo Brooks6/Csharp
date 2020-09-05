@@ -1,0 +1,12 @@
+/Users/brooks/Desktop/c#/20200724_classesAndObjects/20200724_classesAndObjects/bin/Debug/netcoreapp3.1/20200724_classesAndObjects.deps.json
+/Users/brooks/Desktop/c#/20200724_classesAndObjects/20200724_classesAndObjects/bin/Debug/netcoreapp3.1/20200724_classesAndObjects.runtimeconfig.json
+/Users/brooks/Desktop/c#/20200724_classesAndObjects/20200724_classesAndObjects/bin/Debug/netcoreapp3.1/20200724_classesAndObjects.runtimeconfig.dev.json
+/Users/brooks/Desktop/c#/20200724_classesAndObjects/20200724_classesAndObjects/bin/Debug/netcoreapp3.1/20200724_classesAndObjects.dll
+/Users/brooks/Desktop/c#/20200724_classesAndObjects/20200724_classesAndObjects/bin/Debug/netcoreapp3.1/20200724_classesAndObjects.pdb
+/Users/brooks/Desktop/c#/20200724_classesAndObjects/20200724_classesAndObjects/obj/Debug/netcoreapp3.1/20200724_classesAndObjects.csprojAssemblyReference.cache
+/Users/brooks/Desktop/c#/20200724_classesAndObjects/20200724_classesAndObjects/obj/Debug/netcoreapp3.1/20200724_classesAndObjects.AssemblyInfoInputs.cache
+/Users/brooks/Desktop/c#/20200724_classesAndObjects/20200724_classesAndObjects/obj/Debug/netcoreapp3.1/20200724_classesAndObjects.AssemblyInfo.cs
+/Users/brooks/Desktop/c#/20200724_classesAndObjects/20200724_classesAndObjects/obj/Debug/netcoreapp3.1/20200724_classesAndObjects.csproj.CoreCompileInputs.cache
+/Users/brooks/Desktop/c#/20200724_classesAndObjects/20200724_classesAndObjects/obj/Debug/netcoreapp3.1/20200724_classesAndObjects.dll
+/Users/brooks/Desktop/c#/20200724_classesAndObjects/20200724_classesAndObjects/obj/Debug/netcoreapp3.1/20200724_classesAndObjects.pdb
+/Users/brooks/Desktop/c#/20200724_classesAndObjects/20200724_classesAndObjects/obj/Debug/netcoreapp3.1/20200724_classesAndObjects.genruntimeconfig.cache
