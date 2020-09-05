@@ -1,0 +1,12 @@
+/Users/brooks/Desktop/c#/20200725_inheritance/20200725_inheritance/bin/Debug/netcoreapp3.1/20200725_inheritance.deps.json
+/Users/brooks/Desktop/c#/20200725_inheritance/20200725_inheritance/bin/Debug/netcoreapp3.1/20200725_inheritance.runtimeconfig.json
+/Users/brooks/Desktop/c#/20200725_inheritance/20200725_inheritance/bin/Debug/netcoreapp3.1/20200725_inheritance.runtimeconfig.dev.json
+/Users/brooks/Desktop/c#/20200725_inheritance/20200725_inheritance/bin/Debug/netcoreapp3.1/20200725_inheritance.dll
+/Users/brooks/Desktop/c#/20200725_inheritance/20200725_inheritance/bin/Debug/netcoreapp3.1/20200725_inheritance.pdb
+/Users/brooks/Desktop/c#/20200725_inheritance/20200725_inheritance/obj/Debug/netcoreapp3.1/20200725_inheritance.csprojAssemblyReference.cache
+/Users/brooks/Desktop/c#/20200725_inheritance/20200725_inheritance/obj/Debug/netcoreapp3.1/20200725_inheritance.AssemblyInfoInputs.cache
+/Users/brooks/Desktop/c#/20200725_inheritance/20200725_inheritance/obj/Debug/netcoreapp3.1/20200725_inheritance.AssemblyInfo.cs
+/Users/brooks/Desktop/c#/20200725_inheritance/20200725_inheritance/obj/Debug/netcoreapp3.1/20200725_inheritance.csproj.CoreCompileInputs.cache
+/Users/brooks/Desktop/c#/20200725_inheritance/20200725_inheritance/obj/Debug/netcoreapp3.1/20200725_inheritance.dll
+/Users/brooks/Desktop/c#/20200725_inheritance/20200725_inheritance/obj/Debug/netcoreapp3.1/20200725_inheritance.pdb
+/Users/brooks/Desktop/c#/20200725_inheritance/20200725_inheritance/obj/Debug/netcoreapp3.1/20200725_inheritance.genruntimeconfig.cache
