@@ -1,0 +1,12 @@
+/Users/brooks/Desktop/c#/20200724_variables/20200724_variables/bin/Debug/netcoreapp3.1/20200724_variables.deps.json
+/Users/brooks/Desktop/c#/20200724_variables/20200724_variables/bin/Debug/netcoreapp3.1/20200724_variables.runtimeconfig.json
+/Users/brooks/Desktop/c#/20200724_variables/20200724_variables/bin/Debug/netcoreapp3.1/20200724_variables.runtimeconfig.dev.json
+/Users/brooks/Desktop/c#/20200724_variables/20200724_variables/bin/Debug/netcoreapp3.1/20200724_variables.dll
+/Users/brooks/Desktop/c#/20200724_variables/20200724_variables/bin/Debug/netcoreapp3.1/20200724_variables.pdb
+/Users/brooks/Desktop/c#/20200724_variables/20200724_variables/obj/Debug/netcoreapp3.1/20200724_variables.csprojAssemblyReference.cache
+/Users/brooks/Desktop/c#/20200724_variables/20200724_variables/obj/Debug/netcoreapp3.1/20200724_variables.AssemblyInfoInputs.cache
+/Users/brooks/Desktop/c#/20200724_variables/20200724_variables/obj/Debug/netcoreapp3.1/20200724_variables.AssemblyInfo.cs
+/Users/brooks/Desktop/c#/20200724_variables/20200724_variables/obj/Debug/netcoreapp3.1/20200724_variables.csproj.CoreCompileInputs.cache
+/Users/brooks/Desktop/c#/20200724_variables/20200724_variables/obj/Debug/netcoreapp3.1/20200724_variables.dll
+/Users/brooks/Desktop/c#/20200724_variables/20200724_variables/obj/Debug/netcoreapp3.1/20200724_variables.pdb
+/Users/brooks/Desktop/c#/20200724_variables/20200724_variables/obj/Debug/netcoreapp3.1/20200724_variables.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/brooks/Desktop/c#/20200724_returnStatement/20200724_returnStatement/bin/Debug/netcoreapp3.1/20200724_returnStatement.deps.json
+/Users/brooks/Desktop/c#/20200724_returnStatement/20200724_returnStatement/bin/Debug/netcoreapp3.1/20200724_returnStatement.runtimeconfig.json
+/Users/brooks/Desktop/c#/20200724_returnStatement/20200724_returnStatement/bin/Debug/netcoreapp3.1/20200724_returnStatement.runtimeconfig.dev.json
+/Users/brooks/Desktop/c#/20200724_returnStatement/20200724_returnStatement/bin/Debug/netcoreapp3.1/20200724_returnStatement.dll
+/Users/brooks/Desktop/c#/20200724_returnStatement/20200724_returnStatement/bin/Debug/netcoreapp3.1/20200724_returnStatement.pdb
+/Users/brooks/Desktop/c#/20200724_returnStatement/20200724_returnStatement/obj/Debug/netcoreapp3.1/20200724_returnStatement.csprojAssemblyReference.cache
+/Users/brooks/Desktop/c#/20200724_returnStatement/20200724_returnStatement/obj/Debug/netcoreapp3.1/20200724_returnStatement.AssemblyInfoInputs.cache
+/Users/brooks/Desktop/c#/20200724_returnStatement/20200724_returnStatement/obj/Debug/netcoreapp3.1/20200724_returnStatement.AssemblyInfo.cs
+/Users/brooks/Desktop/c#/20200724_returnStatement/20200724_returnStatement/obj/Debug/netcoreapp3.1/20200724_returnStatement.csproj.CoreCompileInputs.cache
+/Users/brooks/Desktop/c#/20200724_returnStatement/20200724_returnStatement/obj/Debug/netcoreapp3.1/20200724_returnStatement.dll
+/Users/brooks/Desktop/c#/20200724_returnStatement/20200724_returnStatement/obj/Debug/netcoreapp3.1/20200724_returnStatement.pdb
+/Users/brooks/Desktop/c#/20200724_returnStatement/20200724_returnStatement/obj/Debug/netcoreapp3.1/20200724_returnStatement.genruntimeconfig.cache

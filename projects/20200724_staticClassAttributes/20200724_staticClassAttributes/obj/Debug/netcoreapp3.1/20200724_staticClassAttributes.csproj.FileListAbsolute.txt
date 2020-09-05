@@ -1,0 +1,12 @@
+/Users/brooks/Desktop/c#/20200724_staticClassAttributes/20200724_staticClassAttributes/bin/Debug/netcoreapp3.1/20200724_staticClassAttributes.deps.json
+/Users/brooks/Desktop/c#/20200724_staticClassAttributes/20200724_staticClassAttributes/bin/Debug/netcoreapp3.1/20200724_staticClassAttributes.runtimeconfig.json
+/Users/brooks/Desktop/c#/20200724_staticClassAttributes/20200724_staticClassAttributes/bin/Debug/netcoreapp3.1/20200724_staticClassAttributes.runtimeconfig.dev.json
+/Users/brooks/Desktop/c#/20200724_staticClassAttributes/20200724_staticClassAttributes/bin/Debug/netcoreapp3.1/20200724_staticClassAttributes.dll
+/Users/brooks/Desktop/c#/20200724_staticClassAttributes/20200724_staticClassAttributes/bin/Debug/netcoreapp3.1/20200724_staticClassAttributes.pdb
+/Users/brooks/Desktop/c#/20200724_staticClassAttributes/20200724_staticClassAttributes/obj/Debug/netcoreapp3.1/20200724_staticClassAttributes.csprojAssemblyReference.cache
+/Users/brooks/Desktop/c#/20200724_staticClassAttributes/20200724_staticClassAttributes/obj/Debug/netcoreapp3.1/20200724_staticClassAttributes.AssemblyInfoInputs.cache
+/Users/brooks/Desktop/c#/20200724_staticClassAttributes/20200724_staticClassAttributes/obj/Debug/netcoreapp3.1/20200724_staticClassAttributes.AssemblyInfo.cs
+/Users/brooks/Desktop/c#/20200724_staticClassAttributes/20200724_staticClassAttributes/obj/Debug/netcoreapp3.1/20200724_staticClassAttributes.csproj.CoreCompileInputs.cache
+/Users/brooks/Desktop/c#/20200724_staticClassAttributes/20200724_staticClassAttributes/obj/Debug/netcoreapp3.1/20200724_staticClassAttributes.dll
+/Users/brooks/Desktop/c#/20200724_staticClassAttributes/20200724_staticClassAttributes/obj/Debug/netcoreapp3.1/20200724_staticClassAttributes.pdb
+/Users/brooks/Desktop/c#/20200724_staticClassAttributes/20200724_staticClassAttributes/obj/Debug/netcoreapp3.1/20200724_staticClassAttributes.genruntimeconfig.cache

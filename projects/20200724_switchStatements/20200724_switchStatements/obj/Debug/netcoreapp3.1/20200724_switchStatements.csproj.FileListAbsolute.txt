@@ -1,0 +1,12 @@
+/Users/brooks/Desktop/c#/20200724_switchStatements/20200724_switchStatements/bin/Debug/netcoreapp3.1/20200724_switchStatements.deps.json
+/Users/brooks/Desktop/c#/20200724_switchStatements/20200724_switchStatements/bin/Debug/netcoreapp3.1/20200724_switchStatements.runtimeconfig.json
+/Users/brooks/Desktop/c#/20200724_switchStatements/20200724_switchStatements/bin/Debug/netcoreapp3.1/20200724_switchStatements.runtimeconfig.dev.json
+/Users/brooks/Desktop/c#/20200724_switchStatements/20200724_switchStatements/bin/Debug/netcoreapp3.1/20200724_switchStatements.dll
+/Users/brooks/Desktop/c#/20200724_switchStatements/20200724_switchStatements/bin/Debug/netcoreapp3.1/20200724_switchStatements.pdb
+/Users/brooks/Desktop/c#/20200724_switchStatements/20200724_switchStatements/obj/Debug/netcoreapp3.1/20200724_switchStatements.csprojAssemblyReference.cache
+/Users/brooks/Desktop/c#/20200724_switchStatements/20200724_switchStatements/obj/Debug/netcoreapp3.1/20200724_switchStatements.AssemblyInfoInputs.cache
+/Users/brooks/Desktop/c#/20200724_switchStatements/20200724_switchStatements/obj/Debug/netcoreapp3.1/20200724_switchStatements.AssemblyInfo.cs
+/Users/brooks/Desktop/c#/20200724_switchStatements/20200724_switchStatements/obj/Debug/netcoreapp3.1/20200724_switchStatements.csproj.CoreCompileInputs.cache
+/Users/brooks/Desktop/c#/20200724_switchStatements/20200724_switchStatements/obj/Debug/netcoreapp3.1/20200724_switchStatements.dll
+/Users/brooks/Desktop/c#/20200724_switchStatements/20200724_switchStatements/obj/Debug/netcoreapp3.1/20200724_switchStatements.pdb
+/Users/brooks/Desktop/c#/20200724_switchStatements/20200724_switchStatements/obj/Debug/netcoreapp3.1/20200724_switchStatements.genruntimeconfig.cache
