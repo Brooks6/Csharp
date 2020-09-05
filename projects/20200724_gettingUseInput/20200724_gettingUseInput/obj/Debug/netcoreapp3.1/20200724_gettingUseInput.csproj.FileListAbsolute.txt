@@ -1,0 +1,12 @@
+/Users/brooks/Desktop/c#/20200724_gettingUseInput/20200724_gettingUseInput/bin/Debug/netcoreapp3.1/20200724_gettingUseInput.deps.json
+/Users/brooks/Desktop/c#/20200724_gettingUseInput/20200724_gettingUseInput/bin/Debug/netcoreapp3.1/20200724_gettingUseInput.runtimeconfig.json
+/Users/brooks/Desktop/c#/20200724_gettingUseInput/20200724_gettingUseInput/bin/Debug/netcoreapp3.1/20200724_gettingUseInput.runtimeconfig.dev.json
+/Users/brooks/Desktop/c#/20200724_gettingUseInput/20200724_gettingUseInput/bin/Debug/netcoreapp3.1/20200724_gettingUseInput.dll
+/Users/brooks/Desktop/c#/20200724_gettingUseInput/20200724_gettingUseInput/bin/Debug/netcoreapp3.1/20200724_gettingUseInput.pdb
+/Users/brooks/Desktop/c#/20200724_gettingUseInput/20200724_gettingUseInput/obj/Debug/netcoreapp3.1/20200724_gettingUseInput.csprojAssemblyReference.cache
+/Users/brooks/Desktop/c#/20200724_gettingUseInput/20200724_gettingUseInput/obj/Debug/netcoreapp3.1/20200724_gettingUseInput.AssemblyInfoInputs.cache
+/Users/brooks/Desktop/c#/20200724_gettingUseInput/20200724_gettingUseInput/obj/Debug/netcoreapp3.1/20200724_gettingUseInput.AssemblyInfo.cs
+/Users/brooks/Desktop/c#/20200724_gettingUseInput/20200724_gettingUseInput/obj/Debug/netcoreapp3.1/20200724_gettingUseInput.csproj.CoreCompileInputs.cache
+/Users/brooks/Desktop/c#/20200724_gettingUseInput/20200724_gettingUseInput/obj/Debug/netcoreapp3.1/20200724_gettingUseInput.dll
+/Users/brooks/Desktop/c#/20200724_gettingUseInput/20200724_gettingUseInput/obj/Debug/netcoreapp3.1/20200724_gettingUseInput.pdb
+/Users/brooks/Desktop/c#/20200724_gettingUseInput/20200724_gettingUseInput/obj/Debug/netcoreapp3.1/20200724_gettingUseInput.genruntimeconfig.cache

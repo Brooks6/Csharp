@@ -1,0 +1,12 @@
+/Users/brooks/Desktop/c#/20200724_gettersAndSetters/20200724_gettersAndSetters/bin/Debug/netcoreapp3.1/20200724_gettersAndSetters.deps.json
+/Users/brooks/Desktop/c#/20200724_gettersAndSetters/20200724_gettersAndSetters/bin/Debug/netcoreapp3.1/20200724_gettersAndSetters.runtimeconfig.json
+/Users/brooks/Desktop/c#/20200724_gettersAndSetters/20200724_gettersAndSetters/bin/Debug/netcoreapp3.1/20200724_gettersAndSetters.runtimeconfig.dev.json
+/Users/brooks/Desktop/c#/20200724_gettersAndSetters/20200724_gettersAndSetters/bin/Debug/netcoreapp3.1/20200724_gettersAndSetters.dll
+/Users/brooks/Desktop/c#/20200724_gettersAndSetters/20200724_gettersAndSetters/bin/Debug/netcoreapp3.1/20200724_gettersAndSetters.pdb
+/Users/brooks/Desktop/c#/20200724_gettersAndSetters/20200724_gettersAndSetters/obj/Debug/netcoreapp3.1/20200724_gettersAndSetters.csprojAssemblyReference.cache
+/Users/brooks/Desktop/c#/20200724_gettersAndSetters/20200724_gettersAndSetters/obj/Debug/netcoreapp3.1/20200724_gettersAndSetters.AssemblyInfoInputs.cache
+/Users/brooks/Desktop/c#/20200724_gettersAndSetters/20200724_gettersAndSetters/obj/Debug/netcoreapp3.1/20200724_gettersAndSetters.AssemblyInfo.cs
+/Users/brooks/Desktop/c#/20200724_gettersAndSetters/20200724_gettersAndSetters/obj/Debug/netcoreapp3.1/20200724_gettersAndSetters.csproj.CoreCompileInputs.cache
+/Users/brooks/Desktop/c#/20200724_gettersAndSetters/20200724_gettersAndSetters/obj/Debug/netcoreapp3.1/20200724_gettersAndSetters.dll
+/Users/brooks/Desktop/c#/20200724_gettersAndSetters/20200724_gettersAndSetters/obj/Debug/netcoreapp3.1/20200724_gettersAndSetters.pdb
+/Users/brooks/Desktop/c#/20200724_gettersAndSetters/20200724_gettersAndSetters/obj/Debug/netcoreapp3.1/20200724_gettersAndSetters.genruntimeconfig.cache

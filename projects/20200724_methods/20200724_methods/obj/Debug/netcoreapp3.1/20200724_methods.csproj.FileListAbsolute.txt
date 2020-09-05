@@ -1,0 +1,12 @@
+/Users/brooks/Desktop/c#/20200724_methods/20200724_methods/bin/Debug/netcoreapp3.1/20200724_methods.deps.json
+/Users/brooks/Desktop/c#/20200724_methods/20200724_methods/bin/Debug/netcoreapp3.1/20200724_methods.runtimeconfig.json
+/Users/brooks/Desktop/c#/20200724_methods/20200724_methods/bin/Debug/netcoreapp3.1/20200724_methods.runtimeconfig.dev.json
+/Users/brooks/Desktop/c#/20200724_methods/20200724_methods/bin/Debug/netcoreapp3.1/20200724_methods.dll
+/Users/brooks/Desktop/c#/20200724_methods/20200724_methods/bin/Debug/netcoreapp3.1/20200724_methods.pdb
+/Users/brooks/Desktop/c#/20200724_methods/20200724_methods/obj/Debug/netcoreapp3.1/20200724_methods.csprojAssemblyReference.cache
+/Users/brooks/Desktop/c#/20200724_methods/20200724_methods/obj/Debug/netcoreapp3.1/20200724_methods.AssemblyInfoInputs.cache
+/Users/brooks/Desktop/c#/20200724_methods/20200724_methods/obj/Debug/netcoreapp3.1/20200724_methods.AssemblyInfo.cs
+/Users/brooks/Desktop/c#/20200724_methods/20200724_methods/obj/Debug/netcoreapp3.1/20200724_methods.csproj.CoreCompileInputs.cache
+/Users/brooks/Desktop/c#/20200724_methods/20200724_methods/obj/Debug/netcoreapp3.1/20200724_methods.dll
+/Users/brooks/Desktop/c#/20200724_methods/20200724_methods/obj/Debug/netcoreapp3.1/20200724_methods.pdb
+/Users/brooks/Desktop/c#/20200724_methods/20200724_methods/obj/Debug/netcoreapp3.1/20200724_methods.genruntimeconfig.cache
